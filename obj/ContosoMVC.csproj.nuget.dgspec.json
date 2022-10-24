@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj": {}
+    "C:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj": {}
   },
   "projects": {
-    "c:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj": {
+    "C:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj",
+        "projectUniqueName": "C:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj",
         "projectName": "ContosoMVC",
-        "projectPath": "c:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj",
+        "projectPath": "C:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj",
         "packagesPath": "C:\\Users\\Saltie063\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\ContosoMVC\\ContosoMVC\\obj\\",
+        "outputPath": "C:\\dev\\ContosoMVC\\ContosoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saltie063\\AppData\\Roaming\\NuGet\\NuGet.Config",

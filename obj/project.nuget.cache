@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5TZCNGL2ZbroRj97VuwbtwzLRXNrd6OrVIXzayPaNgta9WuxCzSS3j7sNaAurVYc1YmKc46Ey5qgJBrvyb+ihA==",
+  "dgSpecHash": "EmDlVyGOd9w6ifNnBEKFL7PkBZbvWk11vLA0fY/vwDcj3TlTK+sZ1O2z+0i9kkfarI847RD+rzIdpQ2zbUFhRA==",
   "success": true,
-  "projectFilePath": "c:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj",
+  "projectFilePath": "C:\\dev\\ContosoMVC\\ContosoMVC\\ContosoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saltie063\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Saltie063\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
